@@ -1,4 +1,10 @@
 
+## [0.1.9](https://github.com/pkgforge-apps/reliabilitty/compare/v0.1.8...v0.1.9) - 2026-11-18
+
+### Documentation
+
+- Refresh benchmarks with six terminals on v0.1.8 ([#10](https://github.com/pkgforge-apps/reliabilitty/pull/10)) - ([879b392](https://github.com/pkgforge-apps/reliabilitty/commit/879b392c0f767fcc51bc4f2a39003530c2ac5ba4))
+
 ## [0.1.8](https://github.com/pkgforge-apps/reliabilitty/compare/v0.1.7...v0.1.8) - 2026-11-18
 
 ### Performance
